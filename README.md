@@ -1,0 +1,2 @@
+# Booking-Hotels-in-Arosa-Lenzerheide
+The Hotel Booking data set contains information on individual transactions for bookinghotels in Arosa Lenzerheide. The data set contains over 800 individual transactions that comprise the period between 01.01.2014 to 15.11.2015. The columns in the data set include transaction number, product (type of bedroom), number of people, number of nights, date of arrival, date of departure, value paid for the transaction (in CHF), and booking date. The data set is available in German.
